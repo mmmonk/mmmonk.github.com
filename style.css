@@ -1,0 +1,26 @@
+body {
+  font: normal normal 12px Verdana, Geneva, sans-serif;
+  color: #cccccc;
+  background: #092a2c none repeat scroll top left;
+  padding: 0 40px 40px 40px;
+}
+a:link {
+  text-decoration:none;
+  color: #00cbcc;
+}
+a:visited {
+  text-decoration:none;
+  color: #00cbcc;
+}
+a:hover {
+  text-decoration:underline;
+  color: #00696e;
+}
+table, td {
+  text-align:left;
+  vertical-align:top;
+  padding:5px;
+}
+td.id {
+  text-align: left;
+}
