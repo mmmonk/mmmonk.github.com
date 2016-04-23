@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+https://www.linkedin.com/in/lukaszukm <= linkedin aka work history
+http://blog.mmmonk.net/ <= blog
+https://github.com/mmmonk <= some code
+https://twitter.com/mmmonk <= just because
+https://keybase.io/mlukaszuk <= keybase.io
+
+You can get my private PGP key from a local copy or using command below:
+$ gpg --keyserver pool.sks-keyservers.net --recv-keys 0xA05B707BECEE7D6D
+
+Key fingerprint = 1EAA 8590 80A9 43E9 81A9 E36B A05B 707B ECEE 7D6D
+
+My work related key can be downloaded from local copy
+or using KeyID 0xEE80B6D796ADCC4C
+
+Some good GPG practices can be found here.
+
+You can verify the authenticity of this html page by running this command:
+$ w3m -dump http://mmmonk.net/index.html | gpg --verify
+
+and also (for the alternate site):
+$ w3m -dump https://mmmonk.github.io/index.html | gpg --verify
+
+My TextSecure fingerprint:
+0536 2ba9 5329 58b1 5e1a 9e34 a712 13fd 7fe1 be72 0a09 f1b9 08eb 7df9 6947 ef0c
+02
+
+-----BEGIN PGP SIGNATURE-----
+
+iQJ8BAEBCgBmBQJVCsbSXxSAAAAAAC4AKGlzc3Vlci1mcHJAbm90YXRpb25zLm9w
+ZW5wZ3AuZmlmdGhob3JzZW1hbi5uZXQzRTkxQjM2NDczMEY3QkJFOThBOTFGRDQz
+QjE1Njg3MDRFMTgzRUZGAAoJEDsVaHBOGD7/fUUQAJyXNydCLxvXcJjs3qDkiTXD
+YW6gfiGoJgd15xGx/H3YSnE5V14mpKmxC4xsmhu4EL5Y+1Hec8OZ/KO1a9VEqZBo
+rfgnX7NNiCZtGkhnOT2ZEVzQkhko/d4Fl6zXo1ybvtfm3Uav/jY2WfJt2CaL6Rli
+dYzexfhAJ6XZsXrhYSoQOYB69EhsqAThH3GvZrIlFovwAdRZXErMKzvgjVlp5sP3
+G01HJwo3vGnMiK3QCnsgJFphvU3fmnnFNHuUG8eYUXPYKyO3T+bOewhx5nPEyiKa
+04wz5I2ooKayyLqoaL5L33fQjlwdzMAjciGyv1KPINLQ9Z6OHIFR4zZ4V+ivDlPe
+ZKTi0M+ltGYSjCyR7W6D7+io8sGOKh3udiM/2tvoq4epkJMsGhDtRbiyWN7IDCRY
+W0kdrZ0MUwNrGzNZbnn9v9nnHhQm2U9fW460iAnRnDXMunjco/eRsJJd9wvkuxNF
+gjf4E0R2bekBfJBPAch7NajEZ+wbldW9DFSN01/dJ5zy88MbvjlgQxvOPangwcr5
+bOLUzaXZ2Xf+lNd7/8KS3OqcRZy+DnVuIrW8fFaTNaEr5oO3wWsux3BZxs8yEK2e
+hodGygJh/WUnP8l0LyNO0ShyfmqTby9fQNdUEdI9yftpW7EhR6mXnQGTryQ9IxmO
+hX7DLmYKYWxAPBcY9d1p
+=vHY8
+-----END PGP SIGNATURE-----
+
