@@ -6,11 +6,11 @@ body {
 }
 a:link {
   text-decoration:none;
-  color: #00cbcc;
+  color: #66ffff;
 }
 a:visited {
   text-decoration:none;
-  color: #00cbcc;
+  color: #66ffff;
 }
 a:hover {
   text-decoration:underline;
