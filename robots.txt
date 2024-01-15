@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /x/
+Disallow: /check.html
+Disallow: /admin/
+Disallow: /vault/
+Disallow: /s/
+Disallow: /top/secret/
+Disallow: /i/am/stupid/and/i/will/check/whatever/is/written/in/robots.txt/file/
+Disallow: /bad/bad/www/spider/
